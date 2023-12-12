@@ -1,0 +1,82 @@
+{
+  "folders": [
+    {
+      "path": "../../../reactapplication"
+    },
+    {
+      "path": "../../../portfolioResponsive"
+    },
+    {
+      "path": "../../../portfolio-github"
+    },
+    {
+      "path": "../../../portfolio-homepage"
+    },
+    {
+      "path": "../../../homepagecontent"
+    },
+    {
+      "path": "../../../empty"
+    },
+    {
+      "path": "../../../homepageportfolio"
+    },
+    {
+      "path": "../../../portfolioHome"
+    },
+    {
+      "path": "../../../testing"
+    },
+    {
+      "path": "../../../../OneDrive/Desktop/workPage"
+    },
+    {
+      "path": "../../../../OneDrive/Desktop/workPage/workPage"
+    },
+    {
+      "path": "../../../contactPage"
+    },
+    {
+      "path": "../../../headerPage"
+    },
+    {
+      "path": "../../../reactprojectweather"
+    },
+    {
+      "path": "../../../footerPage"
+    },
+    {
+      "path": "../../../portfolioProject"
+    },
+    {
+      "path": "../../../man"
+    },
+    {
+      "path": "../../../pinterest-clone"
+    },
+    {
+      "path": "../../../simpleCard"
+    },
+    {
+      "path": "../../../openSource"
+    },
+    {
+      "path": "../../../simpleLandingPage"
+    },
+    {
+      "path": "../../../passengerCounter"
+    },
+    {
+      "path": "../../../openSourceProject"
+    },
+    {
+      "path": "../../../dataAnalyticsDashboard"
+    },
+    {
+      "path": "../.."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "pinterest-clone"
+  }
+}
