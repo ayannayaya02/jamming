@@ -1,1 +1,1 @@
-let song = [artist, name, album, id];ctr
+let song = ['artist', 'name', 'album', 'id'];

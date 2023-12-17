@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "build": "^0.1.4",
     "create-react-app": "^5.0.1",
     "react": "^18.2.0",
     "start": "^5.1.0"
